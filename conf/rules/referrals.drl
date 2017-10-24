@@ -1,0 +1,10 @@
+package drools
+
+rule "Actor Messages"
+      dialect "mvel"
+  when
+      am : ActorMessage()
+  then
+      System.out.println( am.toString() );
+      LogToFile.write( am.toString() );
+end

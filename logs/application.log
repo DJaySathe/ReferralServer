@@ -1,0 +1,77 @@
+2017-10-22 22:00:40,234 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:00:40,235 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:00:40,235 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:00:40,235 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:00:40,860 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:00:40,906 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev)
+2017-10-22 22:05:46,794 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:05:46,794 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:05:46,794 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:05:46,794 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:05:46,848 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:05:46,856 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
+2017-10-22 22:08:06,707 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:08:06,707 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:08:06,707 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:08:06,707 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-2 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:08:06,758 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:08:06,764 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev)
+2017-10-22 22:11:24,212 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-9 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:11:24,212 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-9 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:11:24,212 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-9 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:11:24,212 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-9 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:11:24,256 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:11:24,262 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev)
+2017-10-22 22:12:53,897 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:12:53,897 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:12:53,897 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:12:53,897 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:12:53,943 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:12:53,948 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
+2017-10-22 22:27:12,462 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-13 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:27:12,462 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-13 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:27:12,462 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-13 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:27:12,462 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-13 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:27:12,508 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-13 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:27:12,516 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-13 - Application started (Dev)
+2017-10-22 22:29:55,126 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-14 - Unable to find pom.properties in /Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:29:55,126 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-14 - As folder project tried to fall back to pom.xml, but could not find one
+2017-10-22 22:29:55,126 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-14 - Unable to load pom.properties from/Users/dsathe/Documents/Soc/referrals/target/scala-2.12/classes
+2017-10-22 22:29:55,126 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-14 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2017-10-22 22:29:55,162 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-14 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-10-22 22:29:55,166 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-14 - Application started (Dev)
